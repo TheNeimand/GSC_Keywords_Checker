@@ -1,0 +1,18 @@
+# GSC credentials
+*.json
+token.pickle
+credentials.json
+service_account.json
+client_secret*.json
+
+# Data files
+*.csv
+*.txt
+!requirements.txt
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
