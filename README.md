@@ -47,7 +47,7 @@ This is a Python-based tool with a simple Graphical User Interface (GUI) that co
 ## 💻 How to Use
 
 ### Using the Graphic Interface (GUI)
-Simply double click on `start_gui.bat` on Windows. 
+Simply double click on `Start_GSC_Tool.bat` on Windows. 
 1. Select your Google Service Account `.json` file.
 2. Select your `keywords.txt` file (List of keywords, one per line).
 3. Type your property name exactly as it is in GSC (e.g., `sc-domain:example.com` or `https://www.example.com/`). *(You can click 'List My Sites' to see exact domain formats).*
